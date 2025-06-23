@@ -1,2 +1,2 @@
 # Gruppo_Campobasso_Campanale
-Planning trajectory of Puma 560 robot 
+Path planning and tracking avoiding obstacles. Pick and Place operations grasping a sphere.
